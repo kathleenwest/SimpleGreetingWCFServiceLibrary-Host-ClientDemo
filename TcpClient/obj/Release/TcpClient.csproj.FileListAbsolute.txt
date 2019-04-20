@@ -1,0 +1,6 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\TcpClient\bin\Release\TcpClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\TcpClient\bin\Release\TcpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\TcpClient\bin\Release\TcpClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\TcpClient\obj\Release\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\TcpClient\obj\Release\TcpClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\TcpClient\obj\Release\TcpClient.pdb

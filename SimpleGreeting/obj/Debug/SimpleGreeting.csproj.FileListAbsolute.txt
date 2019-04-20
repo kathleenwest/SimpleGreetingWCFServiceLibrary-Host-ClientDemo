@@ -1,0 +1,6 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\SimpleGreeting\SimpleGreeting\bin\Debug\SimpleGreeting.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\SimpleGreeting\SimpleGreeting\bin\Debug\SimpleGreeting.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\SimpleGreeting\SimpleGreeting\bin\Debug\SimpleGreeting.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\SimpleGreeting\SimpleGreeting\obj\Debug\SimpleGreeting.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\SimpleGreeting\SimpleGreeting\obj\Debug\SimpleGreeting.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\SimpleGreeting\SimpleGreeting\obj\Debug\SimpleGreeting.pdb

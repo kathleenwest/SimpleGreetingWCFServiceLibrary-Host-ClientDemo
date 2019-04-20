@@ -1,0 +1,11 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\bin\Release\ServiceHost.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\bin\Release\ServiceHost.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\bin\Release\ServiceHost.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\bin\Release\SimpleGreeting.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\bin\Release\SimpleGreeting.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\bin\Release\SimpleGreeting.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\obj\Release\ServiceHostApplication.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\obj\Release\ServiceHostApplication.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\obj\Release\ServiceHostApplication.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\obj\Release\ServiceHost.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\SimpleGreetingWCFServiceLibrary&Host&ClientDemo\ServiceHost\obj\Release\ServiceHost.pdb
