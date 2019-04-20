@@ -3,6 +3,7 @@
 WCF Simple Greeting Service Library & Service Host Console Application Supporting Http and TCP Protocols & Client “Tester" Console Application 
 
 Project Blog Article here: 
+https://portfolio.katiegirl.net/2019/04/20/wcf-simple-greeting-service-library-service-host-console-application-supporting-http-and-tcp-protocols-client-tester-console-application/
 
 
 About
